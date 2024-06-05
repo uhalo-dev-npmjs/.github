@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://uhalo.925i.cn" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="../logo.png" alt="小莫唐尼的个人 NPM 开发" />
+        <img width="100" src="./logo.png" alt="小莫唐尼的个人 NPM 开发" />
     </a>
 </p>
 
